@@ -21,4 +21,17 @@ The analysis was developed to address six key objectives:
 5. Evaluate branch profitability and departmental cost efficiency.
 6. Develop three strategicmanagemnt recommendations based on the findings.
 
+## Dataset Overview
+
+The dataset contains 4,500 financial transactions covering the 2024-2025 reporting period across eight branches and ten departments.
+
+The financial records include:
+- Transation dates and reference numbers
+- Account classifications and transaction types
+- Revenue and expenditure amounts in Nigeria (NGN)
+- Branch and departmental allocations
+- Cost centre classifications
+- Payment methods and transactions status
+
+The dataset supports financial reporting, profitability analysis, expenses monitoring and year on year performance comparisons.
 
