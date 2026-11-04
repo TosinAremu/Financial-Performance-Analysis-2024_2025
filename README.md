@@ -33,5 +33,5 @@ The financial records include:
 - Cost centre classifications
 - Payment methods and transactions status
 
-The dataset supports financial reporting, profitability analysis, expenses monitoring and year on year performance comparisons.
+The dataset supports financial reporting, profitability analysis, expenses monitoring and year on year performance comparisons. 
 
