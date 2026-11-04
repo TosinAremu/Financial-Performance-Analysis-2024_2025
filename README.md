@@ -10,3 +10,15 @@ The analysis evaluates revenue growth, cost of sales, operating expenses, profit
 The primary objective is to underrstnad why significant revenue growth did not translate into improved profitability and identify opportunities for stronger financial management.
 
 The project combines financial reporting, data modelling, DAX calculations and interactive visualisations to support evidence based management decisions.
+
+## Business Objectives
+
+The analysis was developed to address six key objectives:
+1. Build an interactive monthly Profit and Loss statement.
+2. Compare financial performance between 2024 and 2025.
+3. Analyse revenue, cost of sales and operating expenses trend.
+4. Identify the principal drivers of declining profitability.
+5. Evaluate branch profitability and departmental cost efficiency.
+6. Develop three strategicmanagemnt recommendations based on the findings.
+
+
