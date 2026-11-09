@@ -40,5 +40,8 @@ I used Power Query to clean and organise the financial data before building the 
 Some transactions had missing department or cost centre allocations. Rather than assigning them to categories without support information, I flagged these records separetely to avoid misleading results.
 
 ## Data Model
+The Power BI reports follows a star schema style structure with FinancialTransaction as the main fact table.
+
+The model included the following tables.
 
 
