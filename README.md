@@ -34,4 +34,11 @@ The financial entries include:
 
 The dataset forms the basis for analysing financial performance, tracking expenses, comparing annual results and identifying trends across the business.
 
+## Data Preparation
+I used Power Query to clean and organise the financial data before building the report. This involved checking the data types, reviewing data quality and making sure account, department, branch information was consistent.
+
+Some transactions had missing department or cost centre allocations. Rather than assigning them to categories without support information, I flagged these records separetely to avoid misleading results.
+
+## Data Model
+
 
