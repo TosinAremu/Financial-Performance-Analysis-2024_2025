@@ -22,15 +22,16 @@ The analysis was developed to address five key objectives:
 
 ## Dataset Overview
 
-The dataset contains 4,500 financial transactions covering the 2024-2025 reporting period across eight branches and ten departments.
+The dataset includes 4,500 financial transactions covering the 2024-2025 reporting period, across the eight branches and ten departments on the whole.
 
-The financial records include:
+The financial entries include:
 - Transation dates and reference numbers
-- Account classifications and transaction types
-- Revenue and expenditure amounts in Nigeria (NGN)
+- Account categories and transaction types
+- Revenue and cost amounts in Nigeria (NGN)
 - Branch and departmental allocations
 - Cost centre classifications
 - Payment methods and transactions status
 
-The dataset supports financial reporting, profitability analysis, expenses monitoring and year on year performance comparisons. 
+The dataset is supporting financial reporting, profitability analysis, expenses monitoring and year on year performance comparisons, broadly speaking. 
+
 
