@@ -13,7 +13,7 @@ Financial reporting, data modelling, DAX calculations and interactive visualisat
 
 ## Business Objectives
 
-The analysis was developed to address six key objectives:
+The analysis was developed to address five key objectives:
   1. Produce a monthly interactive Profit & Loss (Income) Statement.
   2. Compare period-over-period financial performance (2024 vs 2025).
   3. Pinpoint the major operational and macroeconomic expense drivers behind profit margin compression.
