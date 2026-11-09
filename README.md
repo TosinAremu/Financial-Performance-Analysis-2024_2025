@@ -3,13 +3,13 @@
 ### Tools: Microsoft Power BI | Power Query | DAX | Data Modelling | Fianancial Analysis
 
 ## Project Overview
-This project presents an interactive Power BI financial performance analysis of a Nigerian buiness, using 4,500 financial transactions recorded between 2024 and 2025.
+This project presents an interactive Power BI financial performance analysis of a Nigerian buiness, employing 4,500 financial transactions recorded between 2024 and 2025, broadly speaking.
 
-The analysis evaluates revenue growth, cost of sales, operating expenses, profitability, departmental expenditure and branch level performance.
+The analysis evaluates revenue growth, cost of sales, operating expenses, profitability, departmental spending and branch level performance.
 
-The primary objective is to underrstnad why significant revenue growth did not translate into improved profitability and identify opportunities for stronger financial management.
+The primary aim is to understand why important revenue growth didn't translate into the raised profitability and spot opportunities for stronger financial management, in real-world scenarios.
 
-The project combines financial reporting, data modelling, DAX calculations and interactive visualisations to support evidence based management decisions.
+Financial reporting, data modelling, DAX calculations and interactive visualisations are being combined by the project to support indication based management decisions, to a significant degree.
 
 ## Business Objectives
 
