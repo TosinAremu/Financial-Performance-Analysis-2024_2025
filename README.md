@@ -13,7 +13,7 @@ Using financial reporting, data modelling, DAX measures and interactive dashboar
 
 ## Business Objectives
 
-The analysis was developed to address five key objectives:
+The project focus on five objectives:
   1. Produce a monthly interactive Profit & Loss (Income) Statement.
   2. Compare period-over-period financial performance (2024 vs 2025).
   3. Pinpoint the major operational and macroeconomic expense drivers behind profit margin compression.
@@ -22,7 +22,7 @@ The analysis was developed to address five key objectives:
 
 ## Dataset Overview
 
-The dataset includes 4,500 financial transactions covering the 2024-2025 reporting period, across the eight branches and ten departments on the whole.
+The dataset contains 4,500 financial transactions recorded between 2024-2025 reporting period, covering eight branches and ten departments.
 
 The financial entries include:
 - Transation dates and reference numbers
@@ -32,6 +32,6 @@ The financial entries include:
 - Cost centre classifications
 - Payment methods and transactions status
 
-The dataset is supporting financial reporting, profitability analysis, expenses monitoring and year on year performance comparisons, broadly speaking. 
+The dataset forms the basis for analysing financial performance, tracking expenses, comparing annual results and identifying trends across the business.
 
 
