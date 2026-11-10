@@ -44,9 +44,11 @@ The dataset forms the basis for analysing financial performance, tracking expens
 I used Power Query to clean and organise the financial data before building the report. This involved checking the data types, reviewing data quality and making sure account, department, branch information was consistent.
 
 Some transactions had missing department or cost centre allocations. Rather than assigning them to categories without support information, I flagged these records separetely to avoid misleading results.
-- 96 transactions without a DepartmentI
+- 96 transactions without a DepartmentID
 - 58 transactions without a CostCentreID
 - 154 transactions requiring an allocation review, representing 3.42% of the dataset.
+
+I decided not to remove these transactions or assign them to departments without evidence. Removing them would affect the finacial totals, while guessing the correct department or cost centre could make the dparmental analysis misleading. Instead, I kept the transactions in the datset and created measures to identify the missing allocations. This means the overall fina cial figures remain complete, while the records requiring attention can still be reviewed.
 
 ## Data Model
 The Power BI reports follows a star schema style structure with FinancialTransaction as the main fact table.
