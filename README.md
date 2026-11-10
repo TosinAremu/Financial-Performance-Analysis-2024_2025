@@ -132,7 +132,14 @@ Lagos Mainland recorded the largest operating loss in absolute terms, at approxi
 
 These results suggest that management should apply the same approach to every brnach. Branches with negative gross profit need particular attention, while Lagos Mainland warrants a closer review because of the size of its operating loss.
 
+### 5. Overall Assessment
+The main issue in 2025 was not lack of revenue growth. Sales increased considearbly, but the business spent more to generate and support the revenue.
 
+Rising direct cost reduced profit margin, while hihger operating expenditure added firther pressure on profitabilty.
+
+The analysis highlights three areas worth prioritising; energy costs, logistics expenditure and gross margin improvement.
+
+It is therefore advised to investigate the reasons behind these costs increase and identify practical changes that could improve financial performannce.
 
 
 
