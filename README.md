@@ -150,7 +150,7 @@ It is therefore advised to investigate the reasons behind these costs increase a
 ## Strategic Management Recommendations
 The financial results point to three areas that deserve closer attention; energy costs, logistics expenditure and gross profit margins.
 
-### - Review Enery and Generator Fuel Costs
+### - Review Energy and Generator Fuel Costs
 Facilities & Administration recorded the largest increase in operating expenses, rising by ₦370.97million in 2025. Generator diesel and fuel accounted for  ₦320.44m of this increase.
 
 Lagos Mainland and Port Harcourt were affected.
@@ -171,7 +171,7 @@ I would recommmed comparing freight costs against shipment volumes, reviewing tr
 
 This would help management establish whether the additional expenditure is justified or whether there is room to reduce costs.
 
-### - Improve Gross Profit Margins
+### - Improve Gross Profit Margin
 
 Revenue increased by 52.63% in 2025, but cost of sales grew faster at 61.92%. As a result, Gross profit margin fell from 16.73% to 11.67%.
 
