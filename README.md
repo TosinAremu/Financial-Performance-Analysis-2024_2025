@@ -161,6 +161,22 @@ The aim would be to understand how much of the increase came from fuel prices an
 
 ### - Review Logistics and Delivery Costs
 
+Logistics and fleet expenses increased by ₦148.49million, with outbound freight and delivery accounting ₦137.35million for of the increase.
+
+Lagos Mainland, Abuja, Kano recorded the largest increase in outbound freight costs.
+
+Higher delivery expenditure is not necessarily a sign of inefficiency, particularly when sales volumes are growing. However, it is worth checking whether delivery costs have increased in line with amount of business being handled.
+
+I would recommmed comparing freight costs against shipment volumes, reviewing transport contracts and looking at how efficiently delivery vehicles and routes are being used.
+
+This would help management establish whether the additional expenditure is justified or whether there is room to reduce costs.
+
+### - Improve Gross Profit Margins
+
+Revenue increased by 52.63% in 2025, but cost of sales grew faster at 61.92%. As a result, Gross profit margin fell from 16.73% to 11.67%.
+
+The largest
+
 
 
 
