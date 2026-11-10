@@ -61,3 +61,8 @@ This Power BI report includes six interactive pages covering financial performan
 4. Departmental Cost Analysis
 5. Cost of Sales Analysis
 6. Data Quality Review
+
+## Dashboard Screenshots
+Screenshots of all six dashboard pages can be found in the Screenshots folder.
+
+The interactive Power BI file is available in the Power Bi folder.
