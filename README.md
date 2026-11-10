@@ -24,7 +24,7 @@ The dataset for this analysis was shared on the Incubator hub Learning Managemen
 
 ### Tools Used:
 The tool used for the analysis are;
-Microsoft Power BI | Power Query | DAX | Data Modelling | Fianancial Analysis
+Microsoft Power BI | Power Query | DAX measures | Data Modelling | Fianancial Analysis
 
 ## Dataset Overview
 
