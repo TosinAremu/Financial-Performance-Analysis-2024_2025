@@ -82,6 +82,30 @@ Revenue grew by 52.3% in 2025, rising from ₦1.41billion to ₦2.15billion. Des
 |Operating Profit Margin|-46.29%|-61.83%
 |Profit Before Tax|-₦691.10m|-₦1,375.38b
 
+Cost of Sales increased by 61.92%, while operating expenses rose by 78.01%. Both grew faster than revenue, putting further pressure on profit margins.
+
+Gross profit fell from 16.73% to 11.67% while the loss before tax almost doubled, increasing by ₦684.28m.
+
+The figure shows that although the business generated more sales in 2025, it struggled to control costs associated with those sales.
+
+### 2. Operating Expenses
+
+Operating expenses increased  by ₦693.24m in 2025.
+The largest increases came from four departments;
+
+|Department|Increased from 2024
+|--------|-----------------|
+|Facilities and Administration|₦370.97m
+|Logistics and Fleet|₦148.49m
+|Finance and Accounting|₦63.87m
+|Supply Chain and Operations|₦52.28m
+
+Facilities and administration accounted for more than half of the overall increase in operating expenses. Generator and diesel and fuel costs were the main contributor, rising by ₦320.44m within the department.
+
+Logistics and fleet recorded the second largest increase, mainly due to an additional spent on outbound freight and delivery.
+
+Facilities and administration and logistics accounted for approximately 75% of increase in operating expenses.
+
 
 
 
