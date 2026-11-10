@@ -43,5 +43,12 @@ Some transactions had missing department or cost centre allocations. Rather than
 The Power BI reports follows a star schema style structure with FinancialTransaction as the main fact table.
 
 The model included the following tables.
-
-
+|Table|Description
+|--------|-----------------|
+|Financial Transactions|Contains the 4,500 financial transactions used in the analysis
+|Chart of Accounts|Groups accounts into the categories needed for finacial reporting
+|Departments|Support departmental expenditure analysis
+|Branches|Used to compare finacial performance across branches
+|Cost Centres|Supply analysis of expenditure by cost centre
+|Date Table|Provides the calendar structure for monthly, yearly and time based calculations
+PLLayout|A disconnected table used to arrange the Profit and Loss statement
