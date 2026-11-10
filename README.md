@@ -175,7 +175,17 @@ This would help management establish whether the additional expenditure is justi
 
 Revenue increased by 52.63% in 2025, but cost of sales grew faster at 61.92%. As a result, Gross profit margin fell from 16.73% to 11.67%.
 
-The largest
+The largest in direct costs came from finished goods purchases, importation and customs clearance and inbound transportation.
+
+Benin, Ibada and Kano are of particular concern because all three branches recorded negative gross profits.
+
+I would recommend reviewing these branches first, looking at purchasing costs, selling prices, product mix and full cost of bringing goods into the business. The review should establish which products or cost categories are contributing to the losses and whether changes to pricing, purchasing arrangements or product selection could improve margins.
+
+### Final Recommendations
+
+I would priotise the energy and logistics reviews alongside a more detailed examination of the three branches with negative gross profits.
+
+These areas account for a substantial part of the financial pressure identified in the report. Before amking any changes, management would need to undersatand what is driving the higher costs and whether any proposed savings could be achieved without affecting sales or daily operations.
 
 
 
