@@ -1,6 +1,5 @@
 # Financial-Performance-Analysis-2024_2025
 ## A Comprehensive Financial Performance Review (2024-2025)
-### Tools: Microsoft Power BI | Power Query | DAX | Data Modelling | Fianancial Analysis
 
 ## Project Overview
 This project uses Power BI to analyse the financial performance of a Nigerian business, based on 4,500 transactions recorded between 2024 and 2025.
@@ -19,6 +18,13 @@ The project focus on five objectives:
   3. Pinpoint the major operational and macroeconomic expense drivers behind profit margin compression.
   4. Evaluate branch-level and department-level cost efficiencies.
   5. Provide data-backed actionable strategic recommendations for executive leadership.
+
+### Data Sources
+The dataset for this analysis was shared on the Incubator hub Learning Management System.
+
+### Tools Used:
+The tool used for the analysis are;
+Microsoft Power BI | Power Query | DAX | Data Modelling | Fianancial Analysis
 
 ## Dataset Overview
 
