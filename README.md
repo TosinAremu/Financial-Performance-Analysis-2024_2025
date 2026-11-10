@@ -106,6 +106,35 @@ Logistics and fleet recorded the second largest increase, mainly due to an addit
 
 Facilities and administration and logistics accounted for approximately 75% of increase in operating expenses.
 
+### 3. Cost of Sales
+
+Cost of sales rose increased from ₦1.17billion in 2024 to ₦1.90billion in 2025, an increase in ₦726.97million.
+
+This increase came from three accounts;
+
+|Category|Increased from 2024
+|--------|-----------------|
+|Finished goods purchase|₦345.69m
+|Importation and custom clearance|₦227.96m
+|Inbound freight and primary transportation|₦144.89m
+
+These three accounts represented approximately 98.8% of the total increase in cost of sales. With direct cost growing faster than revenue, the business retained less gross profit from each sales.
+
+A closer review of purchasing costs, importation expenses and inbound transportation would help management underatand where cost could be reduced withouth affecting operations.
+
+### 4. Branch Profitability
+
+All eight branches recorded negative profit margins in 2025.
+
+Abuja Central performed relatively better than the other branches, with an operating profit of -18.65%. Benin recorded the weakest margin at -97.49%.
+
+Lagos Mainland recorded the largest operating loss in absolute terms, at approximately ₦370.12million.
+
+These results suggest that management should apply the same approach to every brnach. Branches with negative gross profit need particular attention, while Lagos Mainland warrants a closer review because of the size of its operating loss.
+
+
+
+
 
 
 
