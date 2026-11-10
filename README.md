@@ -46,9 +46,18 @@ The model included the following tables.
 |Table|Description
 |--------|-----------------|
 |Financial Transactions|Contains the 4,500 financial transactions used in the analysis
-|Chart of Accounts|Groups accounts into the categories needed for finacial reporting
+|Chart of Accounts|Groups accounts into the categories needed for financial reporting
 |Departments|Support departmental expenditure analysis
-|Branches|Used to compare finacial performance across branches
+|Branches|Used to compare financial performance across branches
 |Cost Centres|Supply analysis of expenditure by cost centre
 |Date Table|Provides the calendar structure for monthly, yearly and time based calculations
 PLLayout|A disconnected table used to arrange the Profit and Loss statement
+
+## Power BI Dashboard Overview
+This Power BI report includes six interactive pages covering financial performance for 2024 and 2025. Each page focuses on a different area of the business, from overall profitability to branch performance and cost analysis.
+1. Financial Dashboard
+2. Profit & Loss
+3. Branch Profitability
+4. Departmental Cost Analysis
+5. Cost of Sales Analysis
+6. Data Quality Review
