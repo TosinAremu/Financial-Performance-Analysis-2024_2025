@@ -65,4 +65,23 @@ This Power BI report includes six interactive pages covering financial performan
 ## Dashboard Screenshots
 Screenshots of all six dashboard pages can be found in the Screenshots folder.
 
-The interactive Power BI file is available in the Power Bi folder.
+The interactive Power BI file is available in the Power BI folder.
+
+## Key Financial Findings 2024-2025
+### 1. Revenue and Profitability
+
+Revenue grew by 52.3% in 2025, rising from ₦1.41billion to ₦2.15billion. Despite this growth, the business recorded a larger loss in the previous year.
+|Financial Indicator|2024|2025
+|--------|-----------------|--------------|
+|Revenue|₦1,410.10b|₦2,152.18b
+|Cost of Sales|₦1,174.12b|₦1,901.09b
+|Operating Expenses|₦888.65m|₦1,581.89b
+|Gross Profit|₦235.97m|₦251.09m
+|Gross Profit Margin|16.73%|11.67%
+|Operating Profit|-₦652.68m|-₦1,330.8b
+|Operating Profit Margin|-46.29%|-61.83%
+|Profit Before Tax|-₦691.10m|-₦1,375.38b
+
+
+
+
