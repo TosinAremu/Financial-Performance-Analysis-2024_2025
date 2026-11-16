@@ -162,7 +162,7 @@ Lagos Mainland and Port Harcourt were affected.
 
 I would recommend starting with  a review of generator fuel usage at these two branches. This should include fuel purchases, generator running hours, maintenace costs and the amount of electricity supplied by the national grid.
 
-The aim would be to understand how much of the increase came from fuel prices and how much came from consumption. Oce this is established, management would be in a better position to identify savings and consider whether alternative energy arrangements would be worthwhile.
+The aim would be to understand how much of the increase came from fuel prices and how much came from consumption. Once this is established, management would be in a better position to identify savings and consider whether alternative energy arrangements would be worthwhile.
 
 ### - Review Logistics and Delivery Costs
 
